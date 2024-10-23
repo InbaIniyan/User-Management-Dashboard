@@ -19,15 +19,21 @@ A simple user management dashboard built with React that fetches user data from 
 1. Clone the repository:
    ```bash
    git clone <YOUR-GITHUB-REPO-URL>
-2. Navigate to the project directory:
+   ```
+2. Create a react app using:
+   ```bash
+   npx create-react-app <YOUR_APP_NAME>
+   ```
+3. Replace the "src' folder reated in the command with the "src' folder in this repository
+4. Navigate to the project directory:
     ```bash
     cd user-management-dashboard
     ```
-3. Install dependencies:
+5. Install dependencies:
     ```bash
     npm install
     ```
-4. Run the application:
+6. Run the application:
     ```bash
     npm start
     ```
